@@ -144,3 +144,32 @@
   color: #7335b7;
   padding: 20px;
 }
+/* row-4 end */
+
+/* row-5 start */
+.row-5{
+    margin-top: 100px;
+}
+form input{
+    margin-top: 20px;
+    height: 40px;
+    width: 80%;
+    padding-left: 10px;
+}
+.msg{
+    height: 100px;
+}
+.form-heading h2{
+  color: black;
+  font-weight: bold;
+  padding-bottom: 30px;
+}
+.d button{
+    padding: 5px 50px;
+    margin-top: 40px;
+    background-color:#7335b7;
+    border:#7335b7;
+    color: white;
+    
+}
+/* row-5 end */
