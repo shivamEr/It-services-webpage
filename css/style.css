@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.row-1{
+    width: 100%;
+    min-height: 120vh;
+    background-color: #7335b7;
+    border-bottom-right-radius: 300px;
+}
+.link-bg:hover{
+    background-color: rgb(6, 255, 22);
+    color: rgb(124, 44, 44);
+    border-radius: 5px;
+}
+.own-p{
+    color: rgb(221, 216, 216);
+}
+.owndigital{
+    margin-top: 100px;
+}
+.bt1{
+    margin-top: 60px;
+    padding: 10px 50px;
+    background-color: blueviolet;
+   
+}
