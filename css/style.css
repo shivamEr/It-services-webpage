@@ -30,7 +30,6 @@
 /* row-2 start */
 .row-2{
     width: 100%;
-    height: 650px;
 }
 .service-top{
     padding-top: 80px;
@@ -82,3 +81,38 @@
     color: white;
 }
 /* row-2 end */
+
+/* row-3 start */
+.row-3{
+    background-color: #7335b7;
+    margin-top: 100px;
+    border-top-left-radius: 200px;
+    border-bottom-right-radius: 300px;
+}
+.about-title{
+    padding-top: 25%;
+}
+.about-title h1{
+    font-weight: bold;
+}
+.about-title p{
+    color: white;
+    padding-top: 20px;
+    font-size: 15px;
+}
+.about-title a{
+    display: inline-block;
+    padding: 10px 45px;
+    background-color: #f8842b;
+    color: #ffffff;
+    border-radius: 5px;
+    transition: all 0.3s;
+    border: 1px solid #f8842b;
+    margin-top: 15px;
+    text-decoration: none;
+}
+.about-section img{
+    height: 70%;
+    margin-top: 100px;
+}
+/* Row-3 end */
