@@ -116,3 +116,31 @@
     margin-top: 100px;
 }
 /* Row-3 end */
+
+/* row-4 start */
+.row-4{
+    width: 100%;
+}
+.case-section{
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+.case-section h1{
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 33px;
+}
+.case-card{
+   
+    text-align: center;
+}
+.case-card h4{
+   font-weight: bold;
+   padding-top: 20px;
+}
+.case-card a{
+  text-decoration: none;
+  color: #7335b7;
+  padding: 20px;
+}
